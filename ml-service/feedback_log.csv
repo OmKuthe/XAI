@@ -1,0 +1,2 @@
+timestamp,event_id,feedback,user_preferences
+2026-04-23T13:31:38.950025,472,helpful,"{'interest': 'Hackathon', 'city': 'Pune', 'budget': 1000, 'event_type': 'Team'}"
