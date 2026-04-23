@@ -20,21 +20,23 @@
 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/event-recommendation-xai.git
-cd event-recommendation-xai
+git clone https://github.com/OmKuthe/XAI
+cd XAI
+
 2️⃣ Backend Setup
 cd ml-service
 python -m venv venv
 venv\Scripts\activate   # Windows
 # source venv/bin/activate (Mac/Linux)
-
 pip install -r requirements.txt
 python app.py
 
 Backend runs on:
-
 http://127.0.0.1:5000
+
 3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
+
+```
