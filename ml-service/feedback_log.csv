@@ -1,2 +1,4 @@
 timestamp,event_id,feedback,user_preferences
 2026-04-23T13:31:38.950025,472,helpful,"{'interest': 'Hackathon', 'city': 'Pune', 'budget': 1000, 'event_type': 'Team'}"
+2026-04-23T14:17:24.727943,517,helpful,"{'interest': 'Hackathon', 'city': 'Mumbai', 'budget': 1000, 'event_type': 'Both'}"
+2026-04-23T14:17:27.459203,52,helpful,"{'interest': 'Hackathon', 'city': 'Mumbai', 'budget': 1000, 'event_type': 'Both'}"
